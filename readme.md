@@ -1,4 +1,4 @@
-# **Inventory Management System
+# Inventory Management System
 ## **Overview**  
 The **Inventory Management System** is a simple tool designed to help users manage and track inventory efficiently. It allows adding new items, searching for items, and viewing the complete inventory list.  
 
